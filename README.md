@@ -1,5 +1,5 @@
 # Atari-Binary-To-Code
-Over-engineered linux utility to output binary data as text source for Atari 8-bit BASIC, Assembly, or C.
+Over-engineered linux utility to output binary data as text source for Atari 8-bit BASIC, 6502 Assembly, C, or text.
 
 bin2code
 
