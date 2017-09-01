@@ -104,7 +104,8 @@ text                   == Output as a text dump showing address, value. An
                           
                           
 Example output of the address and values in decimal 
-format. Group, Line Size, and Pixel Line size are 2:
+format. Group, Line Size, and Pixel Line size are 2.  
+So, 2 bytes per address, two bytes per line, two characters per bit:
                           
                           1000 00000: 000 024: . . . . . . . . . . . # # . . .
                           
