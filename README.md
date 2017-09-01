@@ -103,8 +103,8 @@ text                   == Output as a text dump showing address, value. An
                           1030 0003: 7e: . # # # # # # . 
                           
                           
-                          Example output of the address and values in decimal 
-                          format. Group, Line Size, and Pixel Line size are 2:
+Example output of the address and values in decimal 
+format. Group, Line Size, and Pixel Line size are 2:
                           
                           1000 00000: 000 024: . . . . . . . . . . . # # . . .
                           
